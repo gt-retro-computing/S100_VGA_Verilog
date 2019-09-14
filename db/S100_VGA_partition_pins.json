@@ -1,0 +1,29 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Hsync",
+					"strict" : false
+				},
+				{
+					"name" : "Vsync",
+					"strict" : false
+				},
+				{
+					"name" : "rOUT",
+					"strict" : false
+				},
+				{
+					"name" : "gOUT",
+					"strict" : false
+				},
+				{
+					"name" : "bOUT",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
